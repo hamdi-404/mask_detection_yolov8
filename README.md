@@ -49,7 +49,7 @@ python detect_webcam.py
 
 ## 🎥 Demo
 
-👉 [Click to watch demo](./video_demo.mp4)
+👉 [Click to watch demo](./video_demo_1.mp4)
 
 ## ✨ Credits
 
