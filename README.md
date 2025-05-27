@@ -49,7 +49,7 @@ python detect_webcam.py
 
 ## 🎥 Demo
 
-> Upload your webcam demo as `demo_video.mp4` or `.gif`, and embed it here if sharing on GitHub.
+👉 [Click to watch demo](./video_demo.mp4)
 
 ## ✨ Credits
 
